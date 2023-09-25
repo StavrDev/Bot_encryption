@@ -1,3 +1,8 @@
-Для начала работы установить библиотеки:\n
-pip install aiogram
+Для начала работы установить библиотеки:            
+
+
+pip install aiogram             
+
+
+
 pip install pyAesCrypt
